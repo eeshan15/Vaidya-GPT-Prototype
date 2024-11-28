@@ -126,4 +126,4 @@ print(response["answer"])
 ## **Conclusion**
 This RAG model effectively answers complex medical questions by leveraging retrieval and generation, offering a valuable tool for students, practitioners, and researchers in medicine.
 
---- 
+---
